@@ -53,5 +53,6 @@ include_once SDK_BASE. "/UnFreezeAccount.php";
 # 快捷支付
 include_once SDK_BASE. "/FastPay.php";
 include_once SDK_BASE. "/FastPayCard.php";
+include_once SDK_BASE. "/AdaPayCommon.php";
 
 
